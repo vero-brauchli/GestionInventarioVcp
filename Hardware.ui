@@ -10,6 +10,12 @@
     <height>462</height>
    </rect>
   </property>
+  <property name="minimumSize">
+   <size>
+    <width>686</width>
+    <height>462</height>
+   </size>
+  </property>
   <property name="windowTitle">
    <string>Dialog</string>
   </property>
@@ -23,6 +29,12 @@ QDialog{
     background-position: center;
     background-repeat: no-repeat;
     
+}
+QPushButton {
+ background-color: white;
+ color: black;
+font-family:Bodoni MT;
+font-size: 16px;
 }</string>
   </property>
   <widget class="QPushButton" name="Mother">
@@ -36,8 +48,8 @@ QDialog{
    </property>
    <property name="font">
     <font>
-     <family>Mongolian Baiti</family>
-     <pointsize>16</pointsize>
+     <family>Bodoni MT</family>
+     <pointsize>-1</pointsize>
     </font>
    </property>
    <property name="text">
@@ -55,8 +67,8 @@ QDialog{
    </property>
    <property name="font">
     <font>
-     <family>Mongolian Baiti</family>
-     <pointsize>16</pointsize>
+     <family>Bodoni MT</family>
+     <pointsize>-1</pointsize>
     </font>
    </property>
    <property name="text">
@@ -74,8 +86,8 @@ QDialog{
    </property>
    <property name="font">
     <font>
-     <family>Mongolian Baiti</family>
-     <pointsize>16</pointsize>
+     <family>Bodoni MT</family>
+     <pointsize>-1</pointsize>
     </font>
    </property>
    <property name="text">
@@ -93,8 +105,8 @@ QDialog{
    </property>
    <property name="font">
     <font>
-     <family>Mongolian Baiti</family>
-     <pointsize>16</pointsize>
+     <family>Bodoni MT</family>
+     <pointsize>-1</pointsize>
     </font>
    </property>
    <property name="text">
@@ -112,8 +124,8 @@ QDialog{
    </property>
    <property name="font">
     <font>
-     <family>Mongolian Baiti</family>
-     <pointsize>16</pointsize>
+     <family>Bodoni MT</family>
+     <pointsize>-1</pointsize>
     </font>
    </property>
    <property name="text">
@@ -131,8 +143,8 @@ QDialog{
    </property>
    <property name="font">
     <font>
-     <family>Mongolian Baiti</family>
-     <pointsize>16</pointsize>
+     <family>Bodoni MT</family>
+     <pointsize>-1</pointsize>
     </font>
    </property>
    <property name="text">
@@ -1932,8 +1944,8 @@ QDialog{
    </property>
    <property name="font">
     <font>
-     <family>Mongolian Baiti</family>
-     <pointsize>16</pointsize>
+     <family>Bodoni MT</family>
+     <pointsize>-1</pointsize>
     </font>
    </property>
    <property name="text">
@@ -1951,8 +1963,8 @@ QDialog{
    </property>
    <property name="font">
     <font>
-     <family>Mongolian Baiti</family>
-     <pointsize>16</pointsize>
+     <family>Bodoni MT</family>
+     <pointsize>-1</pointsize>
     </font>
    </property>
    <property name="text">
@@ -1973,8 +1985,8 @@ QDialog{
    </property>
    <property name="font">
     <font>
-     <family>Mongolian Baiti</family>
-     <pointsize>16</pointsize>
+     <family>Bodoni MT</family>
+     <pointsize>-1</pointsize>
     </font>
    </property>
    <property name="text">
